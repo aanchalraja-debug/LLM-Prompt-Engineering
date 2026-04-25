@@ -17,7 +17,7 @@ In this project, I created prompts to generate clear and structured responses fr
 Write a professional email for a job application.
 
 **Output:**
-(Will be added later)
+Generated a structured professional email response using AI based on clear prompt instructions.
 
 ## Project 2: Prompt Templates Using Variables (In Progress)
 This project focuses on building reusable prompt templates using variables to generate dynamic outputs.
